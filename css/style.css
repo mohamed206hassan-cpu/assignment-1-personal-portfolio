@@ -1,0 +1,194 @@
+.text-cap{
+    text-transform: capitalize;
+}
+.col-bl{
+    color: blue;
+    font-weight: bolder;
+}
+.mar-top{
+    margin-top: 30px;
+}
+
+.card-1{
+    background-color: rgb(68, 68, 214);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    padding: 15px;
+   
+}
+.cards .card-1 a{
+    text-align: center;
+    border: 1px solid rgba(180, 181, 186, 0.886);
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: rgba(182, 205, 211, 0.527);
+    
+}
+.cards .card-2 h2{
+    font-size: 30px;
+    color: blue;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.cards .card-2{
+
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+
+}
+
+.cards .card-2 .img-1 img {
+     margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.cards .card-2 .cl{
+    clear: both;
+}
+.cards .card-2 .lf-side{
+    padding: 10px;
+}
+.cards .card-2 .p-1{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.cards .card-2 .p-1 span{
+    color: blue;
+    text-transform: capitalize;
+}
+.cards .card-2 .p-2{
+    margin-top: 20px;
+}
+.cards .card-2 a{
+    display: inline-block;
+     margin-top: 5px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    text-transform: capitalize;
+    border: 1px solid;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.cards .card-3 {
+    width: 90%;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+   
+}
+.cards .card-3 h2{
+    color: blue;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.cards .card-3 .boxs{
+    width: 100%;
+}
+ .he{
+    color: blue;
+ }  
+.b{
+    width: 22%;
+    float: left;
+    box-sizing: border-box;
+    border: 1px solid rgb(211, 217, 224);
+    border-radius: 10px;
+    padding: 10px;
+   height: 120px;
+   margin: 15px;
+   background-color: rgb(230, 239, 239);
+}   
+
+.cards .card-3 .boxs .cle{
+    clear: both;
+}
+.cards .card-4{
+    width: 90%;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+}
+.cards .card-4 h2{
+    color: blue;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.cards .card-4 .t-box{
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    border-left: 3px solid blue;
+    margin-bottom: 20px;
+}
+.cards .card-4 .t-box .pic-1{
+     width: 120px;
+    float: left;
+    margin-right: 20px;
+}
+.cards .card-4 .t-box .pic-1 img{
+        width: 100%;
+}
+.cards .card-4 .b-box{
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    border-left: 3px solid blue;
+    margin-bottom: 20px;
+}
+.cards .card-4 .b-box .pic-2{
+     width: 120px;
+    float: left;
+    margin-right: 20px;
+}
+.cards .card-4 .b-box .pic-2 img{
+        width: 100%;
+}
+.card-5{
+    background-color: rgb(68, 68, 214);
+    color: white;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    padding: 15px;
+    height: 140px;
+}
+.cards .card-5 a{
+    text-align: center;
+    border: 1px solid rgba(180, 181, 186, 0.886);
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgba(182, 205, 211, 0.527);
+    margin: 20px 10px;
+}
+.cards .card-5 p{
+    padding: 7px;
+}
+.cards .card-6{
+    margin: 20px auto;
+     background-color: rgb(31, 31, 101);
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    width: 90%;
+    padding: 15px;
+}
